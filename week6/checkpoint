@@ -1,2 +1,3 @@
-model_checkpoint_path: "/home/seherkhan/myfiles/selfstudy/imagecaptioning/reddit/week6/weights"
+model_checkpoint_path: "/home/seherkhan/myfiles/selfstudy/imagecaptioning/reddit/week6/weights_0"
 all_model_checkpoint_paths: "/home/seherkhan/myfiles/selfstudy/imagecaptioning/reddit/week6/weights"
+all_model_checkpoint_paths: "/home/seherkhan/myfiles/selfstudy/imagecaptioning/reddit/week6/weights_0"
